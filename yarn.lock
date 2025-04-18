@@ -2997,12 +2997,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@heroicons/react@npm:^2.1.4":
-  version: 2.1.4
-  resolution: "@heroicons/react@npm:2.1.4"
+"@heroicons/react@npm:^2.2.0":
+  version: 2.2.0
+  resolution: "@heroicons/react@npm:2.2.0"
   peerDependencies:
-    react: ">= 16"
-  checksum: 4bdfc8934a855321e2e572dbad9bb5198e56d2cfa8d9c70b068d425e1f57028a1d3a114d27a01bd41948c6cc05b84632fc60355c34ad904c6be9671dd029f9ce
+    react: ">= 16 || ^19.0.0-rc"
+  checksum: ff4dbfa98dacc41f86db82be9102d0c2cd0b8652b428f0b49ffd2580bee8f36fca43937a3d3d5e8f209c7303f5317a32163c018dfa13a3730d79dec43addac93
   languageName: node
   linkType: hard
 
@@ -5313,7 +5313,7 @@ __metadata:
   resolution: "@revertdotdev/revert-next@workspace:packages/revert-next"
   dependencies:
     "@clerk/nextjs": ^5.1.6
-    "@heroicons/react": ^2.1.4
+    "@heroicons/react": ^2.2.0
     "@radix-ui/react-dialog": ^1.1.1
     "@radix-ui/react-label": ^2.1.0
     "@radix-ui/react-popover": ^1.1.1
