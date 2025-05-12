@@ -61,7 +61,7 @@
         "@opensdks/runtime": "0.0.16",
         "@opensdks/sdk-venice": "0.0.14",
         "@prisma/client": "^4.16.0",
-        "@sentry/node": "^7.55.2",
+        "@sentry/node": "^9.17.0",
         "@shortloop/node": "0.0.12",
         "@types/express": "^4.17.21",
         "@types/mime": "3",
